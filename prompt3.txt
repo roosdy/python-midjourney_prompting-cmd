@@ -1,0 +1,13 @@
+
+
+
+"""Prompt: 90's anime aesthetics, video game, pixel art, lofi, vintage, --ar 2:3"""
+
+
+Write prompts for each of the following scenes below that visually describe what happens in the scene, followed by a prompt inspired by the example above:
+
+Scenes: <<SCENE>>
+
+prompt: <<MJP>>
+
+

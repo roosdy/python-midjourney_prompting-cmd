@@ -1,0 +1,5 @@
+
+
+Write an exciting and engaging narrator voiceover script from the following story, in the style of Stephen Fry:
+
+<<STORY>>

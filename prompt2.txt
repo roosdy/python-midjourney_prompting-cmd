@@ -1,0 +1,3 @@
+Divide the following story into 12 vivid visual detailed scenes:
+
+<<STORY>>
